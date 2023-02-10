@@ -1,8 +1,8 @@
 # Modeling-Code
 Graduation Project Modeling Code of three Diseases Pneumonia, Tuberculosis  and Lung Cancer
 
--Pneumonia
+● Pneumonia
 
--Tuberculosis
+● Tuberculosis
 
--Lung Cancer
+● Lung Cancer
